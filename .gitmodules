@@ -2,3 +2,8 @@
 	path = Logicasoft/.paid_modules
 	url = git@github.com:Logicasoft/paid_modules.git
 	branch = 13.0
+
+[submodule "Logicasoft/lgk_test_disable"]
+	path = Logicasoft/lgk_test_disable
+	url = git@github.com:Logicasoft/lgk_test_disable.git
+	branch = sbs
