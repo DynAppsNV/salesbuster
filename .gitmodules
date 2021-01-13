@@ -7,3 +7,8 @@
 	path = Logicasoft/lgk_test_disable
 	url = git@github.com:Logicasoft/lgk_test_disable.git
 	branch = sbs
+
+[submodule "Logicasoft/accounting"]
+	path = Logicasoft/accounting
+	url = git@github.com:Logicasoft/accounting.git
+	branch = 13.0
