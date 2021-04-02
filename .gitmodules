@@ -12,6 +12,7 @@
 	path = Logicasoft/accounting
 	url = git@github.com:Logicasoft/accounting.git
 	branch = 13.0
+
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
