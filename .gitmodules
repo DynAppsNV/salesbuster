@@ -1,24 +1,14 @@
-[submodule "Logicasoft/.paid_modules"]
-	path = Logicasoft/.paid_modules
-	url = git@github.com:Logicasoft/paid_modules.git
-	branch = 13.0
-
 [submodule "Logicasoft/lgk_test_disable"]
 	path = Logicasoft/lgk_test_disable
 	url = git@github.com:Logicasoft/lgk_test_disable.git
-	branch = sbs
-
-[submodule "Logicasoft/accounting"]
-	path = Logicasoft/accounting
-	url = git@github.com:Logicasoft/accounting.git
-	branch = 13.0
+	branch = 15.0
 
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
-	branch = 13.0
+	branch = 15.0
 
 [submodule "OCA/server-tools"]
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
-	branch = 13.0
+	branch = 15.0
