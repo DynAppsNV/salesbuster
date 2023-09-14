@@ -1,14 +1,9 @@
-[submodule "Logicasoft/lgk_test_disable"]
-	path = Logicasoft/lgk_test_disable
-	url = git@github.com:Logicasoft/lgk_test_disable.git
-	branch = 15.0
-
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
 	branch = 15.0
 
-[submodule "OCA/server-tools"]
-	path = OCA/server-tools
-	url = git@github.com:OCA/server-tools.git
-	branch = 15.0
+[submodule "Logicasoft/base"]
+	path = Logicasoft/base
+	url = git@github.com:Logicasoft/base.git
+	branch = 16.0
