@@ -12,3 +12,7 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 15.0
+[submodule "Logicasoft/base"]
+	path = Logicasoft/base
+	url = git@github.com:Logicasoft/base.git
+	branch = 16.0
