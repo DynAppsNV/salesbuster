@@ -1,9 +1,0 @@
-[submodule "Logicasoft/lgk_test_disable"]
-	path = Logicasoft/lgk_test_disable
-	url = git@github.com:Logicasoft/lgk_test_disable.git
-	branch = 15.0
-
-[submodule "Logicasoft/base"]
-	path = Logicasoft/base
-	url = git@github.com:Logicasoft/base.git
-	branch = 16.0
