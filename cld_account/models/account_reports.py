@@ -45,8 +45,9 @@ class AccountReport(models.Model):
     ####################################################
     # Override of standard method
     def _init_options_reconciled(self, options, previous_options=None):
-        if self.filter_unreconciled and previous_options:
-            options['unreconciled'] = previous_options.get('unreconciled', False)
-        else:
-            options['unreconciled'] = True
+        if self.env.ref('account_reports.partner_ledger_report') == self:
+            if self.filter_unreconciled and previous_options:
+                options['unreconciled'] = previous_options.get('unreconciled', False)
+            else:
+                options['unreconciled'] = True
 
